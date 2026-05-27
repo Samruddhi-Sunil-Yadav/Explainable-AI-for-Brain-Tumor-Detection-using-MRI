@@ -35,3 +35,7 @@ the project can be integrated with Ollama Mistral AI model for generating intell
 
 • Mistral AI Model
 
+
+# DataSet
+
+https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
